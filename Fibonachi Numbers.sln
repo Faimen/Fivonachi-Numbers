@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonachi Numbers", "Fibonachi Numbers\Fibonachi Numbers.vcxproj", "{38670461-EDAC-4701-B0D3-FE2723EF329E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Debug|x64.ActiveCfg = Debug|x64
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Debug|x64.Build.0 = Debug|x64
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Debug|x86.ActiveCfg = Debug|Win32
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Debug|x86.Build.0 = Debug|Win32
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Release|x64.ActiveCfg = Release|x64
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Release|x64.Build.0 = Release|x64
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Release|x86.ActiveCfg = Release|Win32
+		{38670461-EDAC-4701-B0D3-FE2723EF329E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E96D27-D86F-49A9-A659-D37450DBE1F6}
+	EndGlobalSection
+EndGlobal
